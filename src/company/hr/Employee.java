@@ -28,4 +28,14 @@ public class Employee {
         }
     }
 
+    public void increaseSalary(double amount){
+        if (amount>0) {
+            salary+=amount;
+            System.out.println("se agrego "+ amount+" al salario base");
+            
+        }else{
+            System.out.println("el excedente debe ser mayor a 0");
+        }
+    }
+   
 }
