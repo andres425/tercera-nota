@@ -1,4 +1,4 @@
-package arraylist.model;
+package unidadDosActividadCuatro.model;
 
 public class Product {
     public String name;

@@ -1,7 +1,7 @@
-package arraylist;
+package unidadDosActividadCuatro;
 
-import arraylist.model.Inventory;
-import arraylist.model.Product;
+import unidadDosActividadCuatro.model.Inventory;
+import unidadDosActividadCuatro.model.Product;
 
 public class Main {
 public static void main(String[] args) {

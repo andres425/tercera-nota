@@ -1,4 +1,4 @@
-package ejercicio.model;
+package unidadDosActividadCinco.model;
 
 public class Car {
     public String model;

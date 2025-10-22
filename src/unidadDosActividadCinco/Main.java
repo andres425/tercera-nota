@@ -1,6 +1,6 @@
-package ejercicio;
-import ejercicio.model.Car;
-import ejercicio.model.CarRental;
+package unidadDosActividadCinco;
+import unidadDosActividadCinco.model.Car;
+import unidadDosActividadCinco.model.CarRental;
 
 
 public class Main {
