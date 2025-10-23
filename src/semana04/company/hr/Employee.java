@@ -1,4 +1,4 @@
-package company.hr;
+package semana04.company.hr;
 
 public class Employee {
     public String name;
