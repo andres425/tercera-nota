@@ -25,6 +25,6 @@ public class Vendedor extends Empleado {
 
     @Override
     public void mostrarInfo(){
-        System.out.println("Vendedor: "+nombre+direccion.getFullAddres()+" | Salario total: $"+calcularPago());
+        System.out.println("Vendedor: "+nombre+"|"+direccion.getFullAddres()+" | Salario total: $"+calcularPago());
     }
 }

@@ -21,7 +21,7 @@ public class Gerente extends Empleado {
 
     @Override
     public void mostrarInfo(){
-        System.out.println("Gerente: "+nombre+direccion.getFullAddres()+" | Salario total: $"+calcularPago());
+        System.out.println("Gerente: "+nombre+"|"+direccion.getFullAddres()+" | Salario total: $"+calcularPago());
     }
 
 }
